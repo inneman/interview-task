@@ -1,0 +1,51 @@
+{
+  "BaseFolders": [
+    {
+      "Name": "Dokumentace",
+      "Subfolders": [
+        {
+          "Name": "Technick\u00E1 dokumentace",
+          "Subfolders": null
+        },
+        {
+          "Name": "Smlouvy",
+          "Subfolders": null
+        },
+        {
+          "Name": "Reporty",
+          "Subfolders": null
+        }
+      ]
+    },
+    {
+      "Name": "Materi\u00E1ly",
+      "Subfolders": [
+        {
+          "Name": "Specifikace",
+          "Subfolders": null
+        },
+        {
+          "Name": "Kalkulace",
+          "Subfolders": null
+        }
+      ]
+    },
+    {
+      "Name": "Komunikace",
+      "Subfolders": [
+        {
+          "Name": "Klient",
+          "Subfolders": null
+        },
+        {
+          "Name": "Intern\u00ED",
+          "Subfolders": null
+        }
+      ]
+    },
+    {
+      "Name": "Fotografie",
+      "Subfolders": null
+    }
+  ]
+}

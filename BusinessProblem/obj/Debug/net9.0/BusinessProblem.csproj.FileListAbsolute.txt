@@ -1,0 +1,14 @@
+/home/simon/RiderProjects/BusinessProblem/BusinessProblem/bin/Debug/net9.0/BusinessProblem
+/home/simon/RiderProjects/BusinessProblem/BusinessProblem/bin/Debug/net9.0/BusinessProblem.deps.json
+/home/simon/RiderProjects/BusinessProblem/BusinessProblem/bin/Debug/net9.0/BusinessProblem.runtimeconfig.json
+/home/simon/RiderProjects/BusinessProblem/BusinessProblem/bin/Debug/net9.0/BusinessProblem.dll
+/home/simon/RiderProjects/BusinessProblem/BusinessProblem/bin/Debug/net9.0/BusinessProblem.pdb
+/home/simon/RiderProjects/BusinessProblem/BusinessProblem/obj/Debug/net9.0/BusinessProblem.GeneratedMSBuildEditorConfig.editorconfig
+/home/simon/RiderProjects/BusinessProblem/BusinessProblem/obj/Debug/net9.0/BusinessProblem.AssemblyInfoInputs.cache
+/home/simon/RiderProjects/BusinessProblem/BusinessProblem/obj/Debug/net9.0/BusinessProblem.AssemblyInfo.cs
+/home/simon/RiderProjects/BusinessProblem/BusinessProblem/obj/Debug/net9.0/BusinessProblem.csproj.CoreCompileInputs.cache
+/home/simon/RiderProjects/BusinessProblem/BusinessProblem/obj/Debug/net9.0/BusinessProblem.dll
+/home/simon/RiderProjects/BusinessProblem/BusinessProblem/obj/Debug/net9.0/refint/BusinessProblem.dll
+/home/simon/RiderProjects/BusinessProblem/BusinessProblem/obj/Debug/net9.0/BusinessProblem.pdb
+/home/simon/RiderProjects/BusinessProblem/BusinessProblem/obj/Debug/net9.0/BusinessProblem.genruntimeconfig.cache
+/home/simon/RiderProjects/BusinessProblem/BusinessProblem/obj/Debug/net9.0/ref/BusinessProblem.dll
